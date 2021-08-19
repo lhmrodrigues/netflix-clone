@@ -1,52 +1,20 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
 
-# Linker output
-*.ilk
-*.map
-*.exp
+node_modules
+bower_components
 
-# Precompiled Headers
-*.gch
-*.pch
+*.sublime*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+psd
+thumb
+sketch
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# End of https://www.toptal.com/developers/gitignore/api/react
