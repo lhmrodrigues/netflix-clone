@@ -12,8 +12,8 @@
 Application layout:
 
 <p float="left">
-  <img src="https://github.com/lhmrodrigues/netflix-clone/blob/main/images/initial.png" width="400" />
-  <img src="https://github.com/lhmrodrigues/netflix-clone/blob/main/images/list.png" width="400" />    
+  <img src="https://github.com/lhmrodrigues/netflix-clone/blob/main/images/initial.png" width="800" />
+  <img src="https://github.com/lhmrodrigues/netflix-clone/blob/main/images/list.png" width="800" />    
 </p>
 
 To Use this app, put your API_KEY at netflix-clone/blob/main/netflixclone/src/Tmdb.js
